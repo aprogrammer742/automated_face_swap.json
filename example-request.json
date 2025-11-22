@@ -1,6 +1,6 @@
 {
   "input": {
-    "workflow": "automated_face_swap.json",
+    "workflow": "Automated_face_swap.json",
     "inputs": {
       "face_1_image": "face1.png",
       "face_2_image": "elon-musk-fighter.webp",
